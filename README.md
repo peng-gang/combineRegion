@@ -2,7 +2,7 @@
 
 This program is used to combine the overlapped or adjacent regions in a bed file together. It can also be used to sort the regions in a bed file accoring to chromosome, start and end position. 
 
-## usage
+## Usage
 Download the source files and complie them with g++ like  
 g++ *.cpp -o combineRegion
 
