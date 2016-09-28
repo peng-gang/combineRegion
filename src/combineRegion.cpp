@@ -187,7 +187,7 @@ int main(int argc, const char * argv[]) {
             chr = 23;
         } else if(chrTmp == "Y" || chrTmp == "y"){
             chr = 24;
-        } else if(chrTmp == "MT" || chrTmp == "mt"){
+        } else if(chrTmp == "MT" || chrTmp == "mt" || chrTmp == "M"){
             chr = 25;
         } else {
             chr = atoi(chrTmp.c_str());
