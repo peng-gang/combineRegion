@@ -44,3 +44,6 @@ chr1	1300	1650
 chr1	1600	2010  
 chr2	100	300  
 chr2	301	500  
+
+
+If you have any questions, please email me: michael dot gang dot peng AT gmail dot com
